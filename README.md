@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi! I'm Samy - aka Last.Resort
 
-<!--
-**mylastresort/mylastresort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[icon stat] - [icon stat] - [icon stat] - [icon stat]
 
-Here are some ideas to get you started:
+I work as a Software Developer, I make sure to learn new things along the way.
+To enhance my soft skills, I created a set of projects in various subjects. Currently most of these are in the early stages and are work in progress:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Project - Description
+* Project - Description
+* Project - Description
+* Project - Description
+* Project - Description
+* Project - Description
+* Project - Description
+
+If you find some of them interesting and would like to contribute.
+Please feel free to reach out to me.
