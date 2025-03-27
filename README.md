@@ -15,4 +15,5 @@ To enhance my soft skills, I created a set of projects in various subjects. Curr
 * Project - Description
 
 If you find some of them interesting and would like to contribute.
+
 Please feel free to reach out to me.
