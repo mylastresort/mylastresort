@@ -27,6 +27,13 @@ Data & AI Specialization · Level **16.09 / 21**
 | `total-perspective-vortex` | Motor imagery classification · *BCI / Signal Processing* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ | **96/100** |
 | `churn` | Churn classification · *Machine Learning* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🔄 | — |
 | `multilayer-perceptron` | Backpropagation from scratch · *Deep Learning* |  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | 🔄 | — |
+| `ft_kalman` | Recursive state estimation · *State Estimation* |  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | 📋 | — |
+| `leaffliction` | Plant disease classification · *Computer Vision* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
+| `myspotify` | Music recommendation · *Recommender Systems* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
+| `understanding-customer` | Customer segmentation · *Unsupervised Learning* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
+| `uber` | Demand forecasting · *Time Series* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
+| `city-life` | Urban data analysis · *Data Science* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
+| `fried-eggs` | Object detection · *Computer Vision* |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 📋 | — |
 
 </div>
 
