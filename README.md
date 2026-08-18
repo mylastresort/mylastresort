@@ -4,7 +4,7 @@
 
 Software Engineering Student · **42 School**
 <br>
-Data & AI Specialization · Level **17.78 / 21**
+Data & AI Specialization · Level **18.02 / 21**
 
 [ ![42](https://img.shields.io/badge/stamim-000000?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/stamim)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-stamim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stamim)
@@ -26,7 +26,7 @@ Data & AI Specialization · Level **17.78 / 21**
 | [`total-perspective-vortex`](https://github.com/mylastresort/total-perspective-vortex) | Motor imagery classification · _BCI / Signal Processing_ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   ✅   | **96/100**  |
 | [`churn`](https://github.com/mylastresort/churn)                                       | Churn classification · _Machine Learning_                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   ✅   | **113/100** |
 | [`multilayer-perceptron`](https://github.com/mylastresort/multilayer-perceptron)       | Backpropagation from scratch · _Deep Learning_           |    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)    |   ✅   |      **125/100**      |
-| [`myspotify`](https://github.com/mylastresort/myspotify)                               | Music recommendation · _Recommender Systems_             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   🔄   |      —      |
+| [`myspotify`](https://github.com/mylastresort/myspotify)                               | Music recommendation · _Recommender Systems_             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   ✅   |      **100/100**      |
 | [`understanding-customer`](https://github.com/mylastresort/understanding-customer)     | Customer segmentation · _Unsupervised Learning_          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   🔄   |      —      |
 | [`uber`](https://github.com/mylastresort/uber)                                         | Demand forecasting · _Time Series_                       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   🔄   |      —      |
 
