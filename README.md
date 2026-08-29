@@ -4,7 +4,7 @@
 
 Software Engineering Student · **42 School**
 <br>
-Data & AI Specialization · Level **18.28 / 21**
+Data & AI Specialization · Level **18.98 / 21**
 
 [ ![42](https://img.shields.io/badge/stamim-000000?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/stamim)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-stamim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stamim)
