@@ -1,6 +1,0 @@
-| Project                                                        | Topic                                            |                                             Lang                                             | Status | Mark |
-| :------------------------------------------------------------- | :----------------------------------------------- | :------------------------------------------------------------------------------------------: | :----: | :--: |
-| [`city-life`](https://github.com/mylastresort/city-life)       | Urban data analysis · _Data Science_             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   📋   |  —   |
-| [`fried-eggs`](https://github.com/mylastresort/fried-eggs)     | Object detection · _Computer Vision_             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   📋   |  —   |
-| [`ft_kalman`](https://github.com/mylastresort/ft_kalman)       | Recursive state estimation · _State Estimation_  |    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)    |   📋   |  —   |
-| [`leaffliction`](https://github.com/mylastresort/leaffliction) | Plant disease classification · _Computer Vision_ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |   📋   |  —   |
