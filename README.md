@@ -12,7 +12,7 @@ Data & AI Specialization · Level **18.98 / 21**
 
 </div>
 
-## 🧠 Projects
+## 🧠 Cursus Projects
 
 <div align="center">
 <br/>
