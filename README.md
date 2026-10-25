@@ -12,6 +12,20 @@ Data & AI Specialization · Level **20.46 / 21**
 
 </div>
 
+## 🏅 Certifications
+
+<!-- CREDLY-BADGES:START -->
+_Badges sync automatically after certification._
+<!-- CREDLY-BADGES:END -->
+
+## **🛠 Stack**
+
+<div align="center">
+<br/>
+<p><img src="assets/stack/python.svg" alt="Python" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/rust.svg" alt="Rust" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/c.svg" alt="C" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/cpp.svg" alt="C++" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/typescript.svg" alt="TypeScript" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/ocaml.svg" alt="OCaml" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/docker.svg" alt="Docker" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/go.svg" alt="Go" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/kubernetes.svg" alt="Kubernetes" width="44" height="44"></p>
+<p><img src="assets/stack/numpy.svg" alt="NumPy" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/pandas.svg" alt="Pandas" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/scikit-learn.svg" alt="scikit-learn" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/pytorch.svg" alt="PyTorch" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/mne.svg" alt="MNE-Python" width="44" height="44">&nbsp;&nbsp;&nbsp;<img src="assets/stack/react.svg" alt="React" width="44" height="44"></p>
+</div>
+
 ## 🧠 Cursus Projects
 
 <div align="center">
@@ -36,29 +50,3 @@ Data & AI Specialization · Level **20.46 / 21**
 
 </div>
 
-## **🛠 Stack**
-
-<div align="center">
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MNE](https://img.shields.io/badge/MNE--Python-00A896?style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</div>

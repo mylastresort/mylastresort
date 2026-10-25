@@ -1,0 +1,44 @@
+name: Update Credly Certifications
+
+# Reads the public Credly profile JSON and writes every badge into the README's
+# certifications grid: newest first, expired badges dropped, each badge linked
+# to its verification page with its issue date underneath.
+#
+# A missing profile (404) or an empty profile keeps the placeholder line and
+# does not fail the run.
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # daily at 9 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: credly-badges
+  cancel-in-progress: true
+
+env:
+  CREDLY_USERNAME: samy-tamim
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Sync badges from Credly
+        id: credly
+        run: python3 .github/scripts/credly-badges.py README.md
+
+      - name: Commit if anything changed
+        if: steps.credly.outputs.changed == 'true'
+        env:
+          BADGE_COUNT: ${{ steps.credly.outputs.count }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync Credly certifications ($BADGE_COUNT badges)"
+          git push

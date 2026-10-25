@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="PyTorch">
+  <title>PyTorch</title>
+  <style>
+    .c { fill: #EE4C2C; stroke: #000000; stroke-opacity: 0.10; }
+    .g { fill: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      .c { fill: #EE4C2C; stroke: #FFFFFF; stroke-opacity: 0.14; }
+      .g { fill: #FFFFFF; }
+    }
+  </style>
+  <rect class="c" x="2" y="2" width="252" height="252" rx="56" stroke-width="4"/>
+  <g class="g" transform="translate(60 60) scale(5.6667)"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></g>
+</svg>
