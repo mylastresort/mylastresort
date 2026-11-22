@@ -110,12 +110,13 @@ def cells(badge: dict) -> tuple[str, str]:
     )
     link = html.escape(f"https://www.credly.com/badges/{badge.get('id', '')}", quote=True)
     anchor = (
-        f'<a href="{link}" title="{name}">'
+        f'<a href="{link}" title="{name}" target="_blank" rel="noopener noreferrer">'
         f'<img src="{html.escape(image, quote=True)}" alt="{name}" '
         f'width="{THUMB}" height="{THUMB}"></a>'
     )
 
-    lines = [(badge.get("issued_at_date") or "")[:10] or "—"]
+    lines = [name]
+    lines.append((badge.get("issued_at_date") or "")[:10] or "—")
     expires = (badge.get("expires_at_date") or "")[:10]
     if expires:
         lines.append(f"exp. {expires}")
