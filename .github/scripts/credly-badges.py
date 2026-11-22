@@ -36,6 +36,10 @@ THUMB = 100
 CELL = THUMB + 36  # px around the badge; keeps captions off the next cell
 PLACEHOLDER = "_Badges sync automatically after certification._"
 
+# Caption names: redundant suffixes dropped, then the width is capped.
+NAME_SUFFIXES = (" Skill Badge", " Badge", " Certification")
+NAME_MAX = 30
+
 START = "<!-- CREDLY-BADGES:START -->"
 END = "<!-- CREDLY-BADGES:END -->"
 
@@ -101,10 +105,24 @@ def select(badges: list[dict], today: date) -> list[dict]:
     return dated + [badge for badge in alive if not as_date(badge, "issued_at_date")]
 
 
+def short_name(full: str) -> str:
+    """Caption-friendly name: redundant suffixes dropped, width capped."""
+    name = full
+    for suffix in NAME_SUFFIXES:
+        if name.endswith(suffix) and len(name) - len(suffix) >= 8:
+            name = name[: -len(suffix)]
+            break
+    if len(name) > NAME_MAX:
+        name = name[: NAME_MAX - 1].rstrip() + "…"
+    return name
+
+
 def cells(badge: dict) -> tuple[str, str]:
     """The anchor for one badge and the caption that goes under it."""
     template = badge.get("badge_template") or {}
-    name = html.escape(template.get("name") or "Badge", quote=True)
+    full = template.get("name") or "Badge"
+    name = html.escape(full, quote=True)
+    short = html.escape(short_name(full))
     image = (template.get("image_url") or "").replace(
         "images.credly.com/images/", f"images.credly.com/size/{THUMB}x{THUMB}/images/"
     )
@@ -115,8 +133,8 @@ def cells(badge: dict) -> tuple[str, str]:
         f'width="{THUMB}" height="{THUMB}"></a>'
     )
 
-    lines = [name, "─"]
-    lines.append((badge.get("issued_at_date") or "")[:10] or "—")
+    issued = (badge.get("issued_at_date") or "")[:10]
+    lines = [short, "─", f"Issued {issued}" if issued else "—"]
     expires = (badge.get("expires_at_date") or "")[:10]
     if expires:
         lines.append(f"exp. {expires}")
