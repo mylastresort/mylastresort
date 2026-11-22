@@ -115,7 +115,7 @@ def cells(badge: dict) -> tuple[str, str]:
         f'width="{THUMB}" height="{THUMB}"></a>'
     )
 
-    lines = [name]
+    lines = [name, "─"]
     lines.append((badge.get("issued_at_date") or "")[:10] or "—")
     expires = (badge.get("expires_at_date") or "")[:10]
     if expires:
