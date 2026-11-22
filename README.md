@@ -15,7 +15,10 @@ Data & AI Specialization · Level **20.46 / 21**
 ## 🏅 Certifications
 
 <!-- CREDLY-BADGES:START -->
-_Badges sync automatically after certification._
+<table align="center">
+<tr><td align="center" width="136"><a href="https://www.credly.com/badges/3dbd91ed-4690-4f72-b801-62e4333bfea1" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/size/100x100/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="100" height="100"></a></td></tr>
+<tr><td align="center"><sub>2026-11-22</sub></td></tr>
+</table>
 <!-- CREDLY-BADGES:END -->
 
 ## **🛠 Stack**
