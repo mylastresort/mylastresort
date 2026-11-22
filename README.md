@@ -2,7 +2,7 @@
 
 # Samy Tamim
 
-Software Engineering Student · **42 Paris**
+Student enrolled in Expert in IT Architecture Certificate · **42 Paris**
 <br>
 Data & AI Specialization · Level **20.46 / 21**
 
